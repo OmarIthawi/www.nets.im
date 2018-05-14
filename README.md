@@ -8,3 +8,8 @@ available for you to:
 
 
 # Available Packages
+
+| Basic | Pro | Custom? |
+| --- | --- | --- |
+| <ul><li>One Virtual Static IP address </li> <li>One host and two ports </li> <li>HTTPs certificate Subdomain `example.nets.im` </li> <li>Linux and Windows support </li> </ul>| <ul><li>Everything in Basic </li> <li>Up to three IPs </li> <li>Up to three hosts, two port each </li> <li>Custom .com domain included </li> <li>Password protected pages for additional security </li></ul>| <ul><li>Need a Raspberry Pi 3 so no software is needed? </li> <li>Need more IPs? </li> <li>More custom port configurations? </li> <li>A static site for your `.com` domain? </li> <li>A Virtual Private Network (VPN) Service? </li> <li>Email service on custom domains ahmad@example.com?</li></ul> |
+| **Price:** 60$/month | **Price:** 120$/month | **Contact Us:** sales@nets.im |
