@@ -1,8 +1,3 @@
----
-title: Exposé Networks
-description: Virtual Networking Solutions
----
-
 We sell virtual static IP Addresses from Europe and US and make them 
 available for you to:
 
