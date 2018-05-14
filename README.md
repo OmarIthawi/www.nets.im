@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+---
+title: Exposé Networks
+description: Virtual Networking Solutions
+---
 
-You can use the [editor on GitHub](https://github.com/OmarIthawi/www.nets.im/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We sell virtual static IP Addresses from Europe and US and make them 
+available for you to:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - Host your own projects locally
+ - Use local ERP instances, everywhere in the world
+ - Access your security camera securely
+ - Access your own control panels and network management systems everywhere even when on 3G connection
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Available Packages
 
-```markdown
-Syntax highlighted code block
+<table>
+    
+</table>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OmarIthawi/www.nets.im/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Basic | Pro | Custom? |
+| --- | --- | --- |
+| <ul><li>One Virtual Static IP address </li> <li>One host and two ports </li> <li>HTTPs certificate Subdomain `example.nets.im` </li> <li>Linux and Windows support </li> </ul>| <ul><li>Everything in Basic </li> <li>Up to three IPs </li> <li>Up to three hosts, two port each </li> <li>Custom .com domain included </li> <li>Password protected pages for additional security </li></ul>| <ul><li>Need a Raspberry Pi 3 so no software is needed? </li> <li>Need more IPs? </li> <li>More custom port configurations? </li> <li>A static site for your `.com` domain? </li> <li>A Virtual Private Network (VPN) Service? </li> <li>Email service on custom domains ahmad@example.com?</li></ul> |
+| **Price:** 60$/month | **Price:** 120$/month | **Contact Us:** sales@nets.im |
